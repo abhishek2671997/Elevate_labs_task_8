@@ -1,0 +1,9 @@
+INSIGHTS FROM SALES DASHBOARD (TASK 8)
+
+1. The West region had the highest total sales among all regions, particularly showing strong performance during the third quarter (Q3).
+
+2. The Technology category consistently outperformed Furniture and Office Supplies in terms of revenue, indicating strong customer demand for tech products.
+
+3. Sales saw a noticeable peak in November and December, suggesting increased customer spending during the holiday season.
+
+4. The Central region, while showing consistent sales, lagged behind the East and West in overall revenue contribution.
